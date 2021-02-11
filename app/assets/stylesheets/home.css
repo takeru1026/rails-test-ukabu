@@ -1,0 +1,6 @@
+.btn {
+    @apply border-dashed border-4 border-purple-900;
+    &:hover {
+        @apply bg-blue-700; 
+    }
+} 
